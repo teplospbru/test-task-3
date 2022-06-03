@@ -1,6 +1,6 @@
 # Приложение Social App
 
-![Иллюстрация к проекту](https://github.com/teplospbru/test-task-2/blob/main/Social-app-screens.png)
+![Иллюстрация к проекту](https://github.com/teplospbru/test-task-3/blob/main/Social-app-screens.png)
 
 Приложение представляет из себя прототип социальной сети. 
 
@@ -12,6 +12,6 @@
 + страница со всеми постами пользователя,
 + подробная страница поста с комментариями возможность отправки своего комментария.
 
-В качестве json-сервера используется фейковый сервер [jsonplaceholder](https://https://jsonplaceholder.typicode.com/ / )
+В качестве json-сервера используется фейковый сервер [jsonplaceholder](https://https://jsonplaceholder.typicode.com/)
 
 Увидеть работу приложения можно [здесь](https://teplospbru.github.io/social-app/).
